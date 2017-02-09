@@ -1,3 +1,5 @@
+___This repo is deprecated - you should go to https://github.com/LSDtopotools/LSDMappingTools now to follow the development and see the latest code.___
+
 # LSDMapArtist
 An experimental python package for plotting LSDTopoTools output and world domination. (But mainly plotting)
 
